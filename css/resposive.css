@@ -1,0 +1,593 @@
+@media (max-width:1399px) {
+    .introduction_section h2{
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .agile_developement .background_part{
+        padding: 40px;
+    }
+    .agile_developement .background_part .agile_heading{
+        font-size: 32px;
+        line-height: 38px;
+    }
+    .latest_pofrfolio_slider_area .portfolio_img_section .portfolio_main_img_section{
+        max-width: 420px;
+        height: 400px;
+    }
+    .contact_section .background_part{
+        padding: 40px;
+    }
+
+}
+/* @media (max-width:1300px) {
+    .latest_pofrfolio_slider_area .portfolio_img_section .portfolio_main_img_section{
+        max-width: 360px;
+        height: 350px;
+    }
+} */
+@media (min-width:1200px) {
+    #header.sticky {
+        position: fixed;
+        top: 0px;
+    }
+}
+
+@media (max-width:1199px) {
+    .header{
+        box-shadow: unset;
+    }
+    .taggle_bg {
+        color: #ffffff;
+        background-color: #46B02D;
+        font-size: 32px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 50px;
+        height: 50px;
+        cursor: pointer;
+        position: fixed;
+        top: 20px;
+        right: 15px;
+        z-index: 9999;
+        border-radius: 20px;
+    }
+    .introduction_section{
+        padding: 90px 0px;
+    }
+    .project_scope_section{
+        padding: 90px 0px;
+    }
+    .design_specification{
+        padding: 90px 0px;
+    }
+    .breakdown_section{
+        padding: 90px 0px;
+    }
+    .step_section {
+        padding: 90px 0px 30px 0px;
+    }
+    .strategic{
+        padding: 90px 0px; 
+    }
+    .agile_developement{
+        margin-bottom: 90px;
+    }
+    .evaluation_section{
+        margin-bottom: 90px;
+    }
+    .client_collaboration{
+        padding: 90px 0px;
+    }
+    .project_investment{
+        padding: 90px 0px;
+    }
+    .project_scope_section{
+        padding: 90px 0px;
+    }
+    .technical_team{
+        padding-top: 90px;
+    }
+    .term_and_condition{
+        padding-top: 90px;
+    }
+    .sign_agreement{
+        padding: 90px 0px;
+    }
+    .recent_project_section .project_description{
+        margin: 90px 0px;
+    }
+    .project_stage_content{
+        padding-bottom: 90px;
+    }
+    .venncirctop{
+        width: 260px;
+        height: 260px;
+    }
+    .venncirclft{
+        width: 260px;
+        height: 260px;
+    }
+    .venncircrt{
+        width: 260px;
+        height: 260px;
+    }
+}
+
+
+
+@media (min-width:991px) {}
+
+@media (max-width:991px) {
+    .introduction_section{
+        padding: 70px 0px;
+    }
+    .project_scope_section h2{
+        font-size: 50px;
+        line-height: 60px;
+    }
+    .design_specification{
+        padding: 70px 0px;
+    }
+    .design_specification .flex_content{
+        gap: 20px;
+    }
+    .design_specification .flex_content .flex_item{
+        width: 100%;
+        display: flex;
+        gap: 10px;
+    }
+    .breakdown_section{
+        padding: 70px 0px;
+    }
+    .breakdown_section .breakdown_heading{
+        font-size: 50px;
+        line-height: 60px;
+    }
+    .step_section {
+        padding: 70px 0px 10px 0px;
+    }
+    .step_section .step_image{
+        margin: 0px auto;
+        border-top-right-radius: 70px;
+        border-bottom-left-radius: 70px;
+    }
+
+    .strategic .strategic_heading{
+        font-size: 50px;
+        line-height: 60px;
+    }
+    .strategic{
+        padding: 0px 0px 70px; 
+    }
+    .agile_developement .image_part{
+        height: auto;
+    }
+    .agile_developement .background_part{
+        min-height: auto;
+    }
+    .agile_developement{
+        margin-bottom: 70px;
+    }
+    .evaluation_section{
+        margin-bottom: 70px;
+    }
+    .evaluation_section .measurements_number_part{
+        margin: 0 auto;
+        max-width: 100px;
+    }
+    .evaluation_section .measurements_number_part .side_img{
+        top: 12px;
+        right: -80px;
+    }
+    .evaluation_section .measurements_name{
+        text-align: center;
+    }
+    .client_collaboration{
+        padding: 70px 0px;
+    }
+    .project_investment{
+        padding: 70px 0px;
+    }
+    .case_studies{
+        max-width: 600px;
+    }
+    .case_studies .heading{
+        font-size: 50px;
+        line-height: 60px;
+    }
+    .latest_pofrfolio_slider_area .portfolio_img_section{
+        max-width: 100%;
+    }
+    .project_scope_section{
+        padding: 70px 0px;
+    }
+    .whats_include{
+        padding-top: 70px;
+    }
+    .meeting_image .main_image{
+        height: auto;
+    }
+    .technical_team{
+        padding-top: 70px;
+    }
+    .term_and_condition{
+        padding-top: 50px;
+    }
+    .contact_section .image_part{
+        height: auto;
+    }
+    .contact_section .background_part{
+        height: auto;
+    }
+    .sign_agreement{
+        padding: 50px 0px;
+    }
+    .sign_agreement .sign_heading{
+        text-align: center;
+    }
+    .owner_sign_part{
+        max-width: 100%;
+    }
+    .sign_upload_area{
+        max-width: 100%;
+    }
+    .client_sign_part{
+        max-width: 100%;
+    }
+    .recent_project_section .heading{
+        font-size: 50px;
+        line-height: 60px;
+        margin-bottom: 30px;
+    }
+    .recent_project_section .bg_part{
+        padding-top: 0px;
+        height: auto;
+    }
+    
+    .recent_project_section .bg_part .logo_part{
+        padding: 60px 0px;
+        text-align: center;
+    }
+    .recent_project_section .bg_part .visit_link{
+        text-align: center;
+    }
+    .recent_project_section .bg_part .main_img_1{
+        position: unset;
+    }
+    .recent_project_section .bg_part .main_img{
+        position: unset;
+        transform: unset;
+    }
+    .main_img_2{
+        display: none;
+    }
+    .venn-container{
+        padding: 0px;
+        margin: 0px auto;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+        justify-content: center;
+    }
+    .venncirctop {
+        padding: 30px;
+        width: 280px;
+        height: 280px;
+        -moz-border-radius: 50%;
+        -webkit-border-radius: 50%;
+        border-radius: 50%;
+        position: unset;
+        margin-bottom: 0px;
+        margin-left: 0px;
+        border: 1px solid rgba(0, 0, 0, 0.3);
+        z-index: 1;
+        /* position: relative; */
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .venncirclft {
+        padding: 30px;
+        width: 280px;
+        height: 280px;
+        -moz-border-radius: 200px;
+        -webkit-border-radius: 200px;
+        border-radius: 50%;
+        position: unset;
+        -webkit-transition: color 0.5s linear, background-color 0.5s linear;
+        -moz-transition: color 0.5s linear, background-color 0.5s linear;
+        -o-transition: color 0.5s linear, background-color 0.5s linear;
+        transition: color 0.5s linear, background-color 0.5s linear;
+        margin-left: 0px;
+        border: 1px solid rgba(0, 0, 0, 0.3);
+        -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+        filter: alpha(opacity = 50);
+        /* z-index: 2; */
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .venncircrt {
+        padding: 30px;
+        width: 280px;
+        height: 280px;
+        -moz-border-radius: 200px;
+        -webkit-border-radius: 200px;
+        border-radius: 50%;
+        position: unset;
+        -webkit-transition: color 0.5s linear, background-color 0.5s linear;
+        -moz-transition: color 0.5s linear, background-color 0.5s linear;
+        -o-transition: color 0.5s linear, background-color 0.5s linear;
+        transition: color 0.5s linear, background-color 0.5s linear;
+        margin-left: 0px;
+        border: 1px solid rgba(0, 0, 0, 0.3);
+        z-index: 3;
+        text-align: right;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .recent_project_section .project_description{
+        margin: 70px 0px;
+    }
+    .main_image_sub{
+        width: 100%;
+        height: 600px;
+    }
+    .project_stage_content{
+        padding-bottom: 70px;
+    }
+}
+
+@media (min-width:767px) {}
+
+@media (max-width:767px) {
+    .banner_part .intro_bg .logo_img img{
+        height: auto;
+        width: auto;
+    }
+    .banner_part .intro_bg{
+        padding: 50px 30px;
+    }
+    .banner_part .intro_bg h1{
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .banner_part{
+        padding: 14.5% 0px;
+    }
+    .introduction_section h2{
+        font-size: 30px;
+        line-height: 40px;
+    }
+    /* .introduction_section .intro_img_part{
+        width: auto;
+        height: auto;
+    } */
+    .introduction_section .intro_img_part{
+        height: 540px;
+    }
+    .introduction_section{
+        padding: 80px 0px;
+    }
+
+    .project_scope_section{
+        padding: 70px 0px;
+    }
+    .project_scope_section h2{
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .project_scope_section p{
+        font-size: 20px;
+        line-height: 28px;
+        margin-bottom: 15px;
+        padding-right: 0px;
+    }
+    .breakdown_section .breakdown_heading{
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .step_section .step_heading{
+        font-size: 30px;
+        line-height: 40px;
+        margin-bottom: 20px;
+    }
+    .strategic .strategic_heading{
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .agile_developement .background_part{
+        padding: 20px;
+    }
+    .agile_developement .background_part .agile_heading{
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .agile_developement{
+        margin-bottom: 50px;
+    }
+    .evaluation_section{
+        margin-bottom: 50px;
+    }
+    .evaluation_section .evaluated_heading{
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .project_stage .project_stage_heading{
+        font-size: 35px;
+        line-height: 45px;
+        margin-bottom: 20px;
+    }
+    .client_collaboration_heading{
+        font-size: 35px;
+        line-height: 45px;
+        max-width: 100%;
+    }
+    .project_investment .project_investment_heading{
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .project_investment{
+        padding: 50px 0px;
+    }
+    .case_studies .heading{
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .whats_include{
+        padding-top: 50px;
+    }
+    .whats_include .whats_heading{
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .whats_excluded .whats_heading{
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .technical_team .technical_team_heading{
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .term_and_condition .terms_heading{
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .contact_section .background_part .agile_heading{
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .sign_agreement .sign_heading{
+        font-size: 40px;
+        line-height: 50px;
+        text-align: center;
+    }
+    .recent_project_section .heading{
+        font-size: 40px;
+        line-height: 50px;
+        margin-bottom: 20px;
+    }
+    .recent_project_section .project_description{
+        margin: 50px 0px;
+    }
+}
+
+@media (max-width:575px) {
+    .main{
+        overflow-x: hidden;
+    }
+    .banner_part{
+        padding: 19.5% 0px;
+    }
+    .banner_part .intro_bg .start_btn{
+        padding: 20px 40px;
+        font-size: 16px;
+    }
+    .introduction_section{
+        padding: 70px 0px;
+    }
+    .introduction_section .intro_img_part{
+        height: 500px;
+    }
+    /* .project_scope_section h2{
+        font-size: 30px;
+        line-height: 40px;
+    } */
+    .design_specification h2.heading{
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .revamp{
+        margin-bottom: 50px;
+    }
+    .revamp h2{
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .step_section .step_image{
+        padding: 30px;
+    }
+    .strategic .strategic_heading{
+        font-size: 30px;
+        line-height: 40px;  
+    }
+    .agile_developement .background_part .agile_heading{
+        font-size: 26px;
+        line-height: 30px;
+    }
+    .evaluation_section .evaluated_heading{
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .project_stage .project_stage_heading{
+        font-size: 30px;
+        line-height: 40px;
+        margin-bottom: 10px;
+    }
+    .client_collaboration_heading{
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .project_investment .project_investment_heading{
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .case_studies .heading{
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .latest_pofrfolio_slider_area .portfolio_img_section{
+        height: 330px;
+    }
+    .latest_pofrfolio_slider_area .portfolio_img_section .portfolio_main_img_section{
+        max-width: auto;
+        height: 330px;
+    }
+    .technical_team .technical_team_heading{
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .term_and_condition .terms_heading{
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .sign_agreement .sign_heading{
+        font-size: 35px;
+        line-height: 45px;
+        text-align: center;
+    }
+    .recent_project_section .project_description h2.project_heading{
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .latest_pofrfolio_slider .owl-nav .owl-prev{
+        display: none;
+    }
+    .latest_pofrfolio_slider .owl-nav .owl-next{
+        display: none;
+    }
+
+ 
+}
+@media (max-width:475px){
+    .introduction_section .intro_img_part{
+        height: 430px;
+    }
+}
+@media (max-width:400px){
+    .banner_part .intro_bg h1{
+        margin: 30px 0px 30px;
+        font-size: 25px;
+        line-height: 35px;
+    }
+    .banner_part .intro_bg .start_btn{
+        padding: 20px 20px;
+        font-size: 14px;
+    }
+}
